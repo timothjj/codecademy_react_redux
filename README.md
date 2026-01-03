@@ -7,6 +7,7 @@
 Create React projects Using Vite
 
 1. Check version of node (must be v20+)
+
 `node -v`
 
 2. Update npm
@@ -23,6 +24,7 @@ Create React projects Using Vite
 - choose Javascript or Typescript
 
 <em>Or combine options directly into the command line</em>
+
 `npm create vite@latest my-react-app -- --template react`
 
 This should result in the following output:
@@ -96,11 +98,35 @@ Any changes to the source code will live updated here.
 
 There are currently two apps in the file. One is commented out. 
 
-######################################################################
-
 ### Project 2: Authorization Form 
 
 A client just called you to say that they love their new website! There’s only one problem: they don’t like how their contact page displays their personal information for all to see.
 
 They’ve asked you to hide their website’s contact page behind a password form. In this project, you’ll accomplish this by creating a React component to set up a simple authorization layer.
 
+### Project 3: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################################################################
+
+Project X: My Button
+
+Source: https://react.dev/learn
+
+Project XX: Tic-Tac-Toe
+
+Source: https://react.dev/learn/tutorial-tic-tac-toe
+
+
+######################################################################

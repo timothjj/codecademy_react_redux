@@ -48143,7 +48143,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports["default"] = void 0;
-var _Contact = _interopRequireDefault(require("./Contact"));
+var _Contact = _interopRequireDefault(require("./Contact.js"));
 var _jsxRuntime = require("react/jsx-runtime");
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { "default": e }; }
 function App() {
@@ -48207,7 +48207,7 @@ var _default = exports["default"] = Contact;
 "use strict";
 
 var _client = require("react-dom/client");
-var _App = _interopRequireDefault(require("./App"));
+var _App = _interopRequireDefault(require("./App.js"));
 var _jsxRuntime = require("react/jsx-runtime");
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { "default": e }; }
 (0, _client.createRoot)(document.getElementById('app')).render(/*#__PURE__*/(0, _jsxRuntime.jsx)(_App["default"], {}));
