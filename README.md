@@ -104,9 +104,19 @@ A client just called you to say that they love their new website! There’s only
 
 They’ve asked you to hide their website’s contact page behind a password form. In this project, you’ll accomplish this by creating a React component to set up a simple authorization layer.
 
-### Project 3: 
+### Project 3: Codey Overflow Forum
 
+A discussion board
 
+### Project 4: Passing Thoughts
+
+A Telegram-like app
+
+What if you could post something and know it wouldn’t live forever? In this project, we’ll build a place for our passing thoughts. Once you add a short thought, it’ll disappear after just 15 seconds.
+
+### Project 5: Video Player
+
+For this project, you’ll make three React components work together to create a responsive video player.
 
 
 
